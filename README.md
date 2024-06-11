@@ -74,7 +74,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/yv18/yv18/output/snake.svg" alt="Snake animation" />
-
 ###
